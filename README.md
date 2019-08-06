@@ -1,2 +1,10 @@
-Hello-world
-My first page
+---
+layout: default
+---
+
+# Musikhaus Lessons
+## Descriptions
+This is a brief description of the offered lessons
+## Contact
+Here should be the contact information
+
